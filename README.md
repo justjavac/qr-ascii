@@ -1,6 +1,11 @@
 # qr-ascii
 
+[![issues](https://img.shields.io/github/issues/justjavac/qr-ascii.svg)](https://github.com/justjavac/qr-ascii/issues)
+[![](https://img.shields.io/github/release/justjavac/qr-ascii.svg)](https://github.com/justjavac/qr-ascii/releases)
+
 A small library to generate QR codes with ascii.
+
+## Preview
 
 ```text
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
