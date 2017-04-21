@@ -1,0 +1,34 @@
+{
+  "name": "qr-ascii",
+  "version": "1.0.0",
+  "description": "A small library to generate QR codes with ascii",
+  "keywords": [
+    "qr",
+    "qrcode",
+    "ascii",
+    "ascii-art",
+    "二维码"
+  ],
+  "homepage": "https://github.com/justjavac/qr-ascii",
+  "bugs": {
+    "url": "https://github.com/justjavac/qr-ascii/issues"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "bin": {
+    "qr-ascii": "bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justjavac/qr-ascii.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "justjavac",
+    "email": "justjavac@gmail.com",
+    "url": "http://justjavac.com"
+  },
+  "license": "ISC"
+}
