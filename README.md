@@ -9,6 +9,8 @@ A small library to generate QR codes with ascii.
 
 <a target="_blank" href="http://justjavac.com/javascript/2017/04/21/a-small-library-to-generate-qr-codes-with-ascii.html">demo</a>
 
+![qr-ascii-hello-justjavac](./screenshot/qrcode-ascii.png)
+
 ## Credits
 
 - [justjavac](https://github.com/justjavac)
