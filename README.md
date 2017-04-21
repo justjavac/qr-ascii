@@ -43,3 +43,11 @@ MM  MMMMMMMMMM  MMMM  MMMM  MM  MMMMMM    MMMMMM    MM    MM  MMMMMM      MMMM
 MM              MMMM  MMMM            MM  MMMMMM      MMMMMM    MM  MM      MM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 ```
+
+## Credits
+
+- [justjavac](https://github.com/justjavac)
+
+## License
+
+qr-ascii is released under the GPL License. See the bundled [LICENSE](./LICENSE) file for details.
